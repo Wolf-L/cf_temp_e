@@ -6,3 +6,5 @@ compatibility_date = "2024-05-13"
 binding = "BACKEND"
 service = "cloudflare_temp_email"
 environment = "production"
+[ai]
+binding = "AI"
